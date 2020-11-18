@@ -1,0 +1,5 @@
+1. Add to app/build.gradle compile files('libs/sdk-release.aar')
+2. For test initialize Lightfield
+
+
+add Manifest tools:replace="android:allowBackup &&, || name"
